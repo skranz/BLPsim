@@ -5,7 +5,7 @@ Version: 0.1.0
 Author: Sebastian Kranz
 Maintainer: Sebastian Kranz <sebastian.kranz@uni-ulm.de>
 Description: Some tools extending BLPestimatoR to facilitate merger simulation
-License: What license is it under?
+License: GPL >= 2.0
 Encoding: UTF-8
 LazyData: true
 Depends: dplyr, AER, restorepoint, Formula, BLPestimatoR
